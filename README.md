@@ -11,8 +11,7 @@ This project was developed as a quick task (approximately 30 minutes) and later 
 - Simple, clean interface with a focus on usability.
 
 ## Live Demo
-Check out the live app here: [Insert URL after deployment, e.g., `https://job-role-recommender.streamlit.app`]  
-*(Update this link after deploying the app on Streamlit Cloud.)*
+Check out the live app here:  https://job-role-recommender.streamlit.app/
 
 ## How It Works
 The app uses **Jaccard similarity** to measure the similarity between job roles:
